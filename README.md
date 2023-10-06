@@ -1,5 +1,3 @@
-TestCommit
-
 Addressbook Tutorial
 ====================
 
